@@ -1,0 +1,8 @@
+source "C:/Espressif/frameworks/esp-idf-v5.1.4/components/bootloader/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.1.4/components/esp_app_format/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.1.4/components/esp_rom/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.1.4/components/esptool_py/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v5.1.4/components/partition_table/Kconfig.projbuild"
+source "D:/OTA/bldc/main/Kconfig.projbuild"
+source "D:/OTA/bldc/components/arduino/Kconfig.projbuild"
+source "D:/OTA/bldc/managed_components/espressif__esp_rainmaker/Kconfig.projbuild"
